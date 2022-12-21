@@ -8,5 +8,14 @@ i am most experinced with android java.
 
 ## programming languages known's
 
-![](https://codewithsagar.000webhostapp.com/langs.gif)
+<style>
+    .chetan{
+        background: #00ff;
+        height: 200px;
+    }
+</style>
+
+<div class="chetan">
+
+</div>
 
